@@ -1,0 +1,8 @@
+SORU:Bilgisayarın fare ile kontrol edilen imleç adı nedir?|CEVAP:Mouse imleci|YANCILAR:Çizgi,Ok tuşu,Simge,Buton
+SORU:Bir dosyayı saklamak için kullanılan dijital alanın adı nedir?|CEVAP:Klasör|YANCILAR:Uygulama,İnternet,Duvar kağıdı,Sürücü
+SORU:Bilgisayarda yazı yazmak için kullanılan program hangisidir?|CEVAP:Kelime işlemci|YANCILAR:Tarayıcı,Oyun,Youtube,Medya oynatıcı
+SORU:Bilgisayarın geçici belleği hangisidir?|CEVAP:RAM|YANCILAR:ROM,USB,CPU,Mouse
+SORU:Bir web sitesine erişmek için kullanılan programın adı nedir?|CEVAP:İnternet tarayıcısı|YANCILAR:Harita,Galerİ,Ajanda,Hesap makinesi
+SORU:Bilgisayarın beynine verilen ad nedir?|CEVAP:CPU|YANCILAR:Kasa,Ekran,Klavye,Ses kartı
+SORU:İnternette güvenli kalmak için yapılması gerekenlerden biri nedir?|CEVAP:Güçlü şifre kullanmak|YANCILAR:Şifreyi paylaşmak,Her siteye tıklamak,Reklamlara basmak,Bilinmeyen dosya indirmek
+SORU:Klavye üzerindeki harf ve sayıların olduğu bölümün adı nedir?|CEVAP:Tuș takımı|YANCILAR:Ekran kartı,Hoparlör,USB girişi,İşlemci
